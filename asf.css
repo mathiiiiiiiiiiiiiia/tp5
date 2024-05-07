@@ -1,0 +1,31 @@
+.si{
+
+    color: white;
+    background-color: black;
+    font-size: 75px;
+    font-weight: 1000;
+    font-family: cursive;
+}
+span{
+
+    color: aqua;
+}
+.no{
+    font-weight: 600px;
+    font-style: italic;
+    color: white;
+    background-color:rgb(126, 26,101);
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+.pptososje{
+
+    text-decoration: underline;
+    text-align: right;
+    background-color: lightblue;
+    padding: 20px;
+    font-size: 25px;
+}
